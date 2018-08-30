@@ -1,0 +1,8 @@
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\bin\Debug\Clones.dll
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\bin\Debug\Clones.pdb
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\joão.machado\documents\visual studio 2013\Projects\Clones\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

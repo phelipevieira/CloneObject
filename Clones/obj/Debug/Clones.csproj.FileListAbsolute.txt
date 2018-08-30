@@ -1,0 +1,5 @@
+c:\users\joão.machado\documents\visual studio 2013\Projects\Clones\Clones\bin\Debug\Clones.dll
+c:\users\joão.machado\documents\visual studio 2013\Projects\Clones\Clones\bin\Debug\Clones.pdb
+c:\users\joão.machado\documents\visual studio 2013\Projects\Clones\Clones\obj\Debug\Clones.csprojResolveAssemblyReference.cache
+c:\users\joão.machado\documents\visual studio 2013\Projects\Clones\Clones\obj\Debug\Clones.dll
+c:\users\joão.machado\documents\visual studio 2013\Projects\Clones\Clones\obj\Debug\Clones.pdb
